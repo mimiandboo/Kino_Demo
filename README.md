@@ -2,7 +2,8 @@
 Demo of an alternative to Kinokuniya's current book inventory system.
 
 After working part-time at Kinokuniya, I played around with the out of date book inventory system to create a more efficient one.
-Program prompts user to enter a number corresponding to the menu items displayed:\n
+Program prompts user to enter a number corresponding to the menu items displayed:
+
 1 - outputs books from an ArrayList in ascending order based on price
 
 2 - allows user to add books into an ArrayList cart
