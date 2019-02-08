@@ -10,7 +10,8 @@ import java.text.DecimalFormat;                         //imports Decimal Format
 
 /**
  *
- * @author mimiandboo
+ * @author Mia Benedek
+ * Email: BenedekMia@gmail.com
  */
 public class Kino_Demo {
     ArrayList<String> shoppingList = new ArrayList<String>();
